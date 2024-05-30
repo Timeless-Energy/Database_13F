@@ -1,0 +1,12 @@
+
+venv/
+.pylintrc
+*.pyc
+__pycache__/
+
+.vscode
+.idea
+
+
+
+
